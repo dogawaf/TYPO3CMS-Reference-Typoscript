@@ -30,7 +30,7 @@ file
 
 ..  t3-cobj-img-resource:: file
 
-    :Data type: imgResource
+    :Data type: :ref:`->imgResource <imgresource>`
 
 stdWrap
 -------
